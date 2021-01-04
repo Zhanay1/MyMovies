@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="most_rating">Most rating</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="add_to_favourite">Add to favorites</string>
+    <string name="delete_to_favourite">Remove to favorites</string>
+    <string name="main">Main</string>
+    <string name="favourite">Favorites</string>
+    <string name="movie_title">Title :</string>
+    <string name="original_title_of_movie">Original title :</string>
+    <string name="rating_of_movie">Rating :</string>
+    <string name="release_date_of_movie">Date of release :</string>
+    <string name="overview_of_movie">Overview :</string>
+    <string name="launch_trailer">Launch trailer</string>
+    <string name="poster_of_film">Poster of film</string>
+</resources>
